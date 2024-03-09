@@ -1,0 +1,976 @@
+---
+references:
+- id: abbottResearchHandbookIntellectual2022
+  call-number: K1401 .R43 2022
+  citation-key: abbottResearchHandbookIntellectual2022
+  collection-title: Research handbooks in intellectual property
+  DOI: https://doi.org/10.4337/9781800881907
+  editor:
+    - family: Abbott
+      given: Ryan
+  event-place: Cheltenham, UK ; Northampton, MA, USA
+  ISBN: 978-1-80088-189-1
+  issued:
+    - year: 2022
+  note: 'OCLC: on1321073792'
+  number-of-pages: '484'
+  publisher: Edward Elgar Publishing
+  publisher-place: Cheltenham, UK ; Northampton, MA, USA
+  source: Library of Congress ISBN
+  title: Research handbook on intellectual property and artificial intelligence
+  type: book
+
+- id: ansariHowMetaBroke2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 27
+  author:
+    - family: Ansari
+      given: Tasmia
+  citation-key: ansariHowMetaBroke2023
+  container-title: Analytics India Magazine
+  issued:
+    - year: 2023
+      month: 8
+      day: 19
+  language: en-US
+  title: How Meta Broke the Barriers To Entry With LLaMA 2
+  type: article-magazine
+  URL: >-
+    https://analyticsindiamag.com/how-meta-broke-the-barriers-to-entry-with-llama-2/
+
+- id: apostleModifiedLiabilityAI2023
+  abstract: >-
+    The EU AI Act, which is progressing towards adoption by the end of 2023,
+    will be complemented by an update to the European civil liability rules ...
+  accessed:
+    - year: 2023
+      month: 12
+      day: 29
+  author:
+    - family: Apostle
+      given: Julia
+    - family: Schröder
+      given: Christian
+    - family: Yavorsky
+      given: Shannon
+    - family: Kawkabani
+      given: Rami
+  citation-key: apostleModifiedLiabilityAI2023
+  container-title: orrick
+  issued:
+    - year: 2023
+      month: 5
+      day: 25
+  language: en
+  title: 'Modified Liability for AI: EU Review of AI Liability Rules'
+  title-short: Modified Liability for AI
+  type: webpage
+  URL: >-
+    https://www.orrick.com/en/Insights/2023/05/Modified-Liability-for-AI-EU-Review-of-AI-Liability-Rules
+
+- id: bollansEUArtificialIntelligence2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 29
+  author:
+    - family: Bollans
+      given: Simon
+  citation-key: bollansEUArtificialIntelligence2023
+  container-title: Stephenson Harwood
+  issued:
+    - year: 2023
+      month: 6
+      day: 29
+  language: en
+  title: EU Artificial Intelligence Liability Directive
+  type: webpage
+  URL: >-
+    https://www.shlegal.com/insights/eu-artificial-intelligence-liability-directive?29122023132549
+
+- id: cahai-adhoccommitteeonartificialintelligenceLegalFrameworkAI2021
+  author:
+    - literal: CAHAI - Ad hoc Committee on Artificial Intelligence
+  citation-key: cahai-adhoccommitteeonartificialintelligenceLegalFrameworkAI2021
+  issued:
+    - year: 2021
+  title: A legal framework for AI systems
+  type: document
+  URL: >-
+    https://edoc.coe.int/en/artificial-intelligence/9648-a-legal-framework-for-ai-systems.html
+
+- id: codagnoneIdentificationAssessmentExisting2022
+  accessed:
+    - year: 2023
+      month: 12
+      day: 27
+  author:
+    - family: Codagnone
+      given: Cristiano
+    - family: Liva
+      given: Giovanni
+    - family: Rodriguez De Las Heras Ballell
+      given: Teresa
+  citation-key: codagnoneIdentificationAssessmentExisting2022
+  container-title: Study for the special committee on Artificial Intelligence in a Digital Age
+  issued:
+    - year: 2022
+      month: 1
+  language: en
+  source: Zotero
+  title: >-
+    Identification and assessment of existing and draft EU legislation in the
+    digital field
+  type: article-journal
+  URL: >-
+    https://www.europarl.europa.eu/RegData/etudes/STUD/2022/703345/IPOL_STU(2022)703345_EN.pdf
+
+- id: coulterWhatEUAI2023
+  abstract: >-
+    Negotiations around the European Union's first-of-a-kind rules governing
+    artificial intelligence (AI) looked set for a dramatic climax on Wednesday,
+    as lawmakers enter what some hope will be the final round of discussions on
+    the landmark legislation.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 30
+  author:
+    - family: Coulter
+      given: Martin
+  citation-key: coulterWhatEUAI2023
+  container-title: Reuters
+  issued:
+    - year: 2023
+      month: 12
+      day: 7
+  language: en
+  section: Technology
+  source: www.reuters.com
+  title: What is the EU AI Act and when will regulation come into effect?
+  type: article-newspaper
+  URL: >-
+    https://www.reuters.com/technology/what-are-eus-landmark-ai-rules-2023-12-06/
+
+- id: dafonsecaLiabilityAIDriven2023
+  author:
+    - family: Fonseca
+      given: Ana Taveira
+      non-dropping-particle: da
+    - family: Sequeira
+      given: Elsa Vaz
+      non-dropping-particle: de
+    - family: Barreto Xavier
+      given: Luís
+  citation-key: dafonsecaLiabilityAIDriven2023
+  container-author:
+    - family: Sousa Antunes
+      given: Henrique
+    - family: Freitas
+      given: Pedro Miguel
+    - family: Oliveira
+      given: Arlindo L
+    - family: Martins Pereira
+      given: Clara
+    - family: Sequeira
+      given: Elsa Vaz
+      non-dropping-particle: de
+    - family: Barreto Xavier
+      given: Luís
+    - literal: a
+  container-title: Multidisciplinary Perspectives on Artificial Intelligence and the Law
+  DOI: https://doi.org/10.1007/978-3-031-41264-6
+  issued:
+    - year: 2023
+      month: 12
+      day: 27
+  language: en
+  page: '299'
+  publisher: Springer
+  source: Zotero
+  title: Liability for AI Driven Systems
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-031-41264-6
+
+- id: deltornElusiveIntellectualProperty2022
+  author:
+    - family: Deltorn
+      given: Jean-Marc
+  call-number: K1401 .R43 2022
+  citation-key: deltornElusiveIntellectualProperty2022
+  collection-title: Research handbooks in intellectual property
+  container-author:
+    - family: Abbott
+      given: Ryan
+  container-title: Research handbook on intellectual property and artificial intelligence
+  DOI: https://doi.org/10.4337/9781800881907
+  event-place: Cheltenham, UK ; Northampton, MA, USA
+  ISBN: 978-1-80088-189-1
+  issued:
+    - year: 2022
+  note: 'OCLC: on1321073792'
+  page: '84'
+  publisher: Edward Elgar Publishing
+  publisher-place: Cheltenham, UK ; Northampton, MA, USA
+  source: Library of Congress ISBN
+  title: >-
+    The elusive intellectual property protection of trained machine learning
+    models: a European perspective
+  type: chapter
+
+- id: delucaNewProductLiability2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 19
+  author:
+    - family: De Luca
+      given: Stefano
+    - literal: European Parliamentary Research Service
+  citation-key: delucaNewProductLiability2023
+  container-title: EU Legislation in Progress
+  issued:
+    - year: 2023
+      month: 12
+  language: en
+  source: Zotero
+  title: New Product Liability Directive
+  type: article-journal
+  URL: >-
+    https://www.europarl.europa.eu/RegData/etudes/BRIE/2023/739341/EPRS_BRI(2023)739341_EN.pdf
+
+- id: dimatteoCambridgeHandbookArtificial2022
+  abstract: >-
+    The technology and application of artificial intelligence (AI) throughout
+    society continues to grow at unprecedented rates, which raises numerous
+    legal questions that to date have been largely unexamined. Although AI now
+    plays a role in almost all areas of society, the need for a better
+    understanding of its impact, from legal and ethical perspectives, is
+    pressing, and regulatory proposals are urgently needed. This book responds
+    to these needs, identifying the issues raised by AI and providing practical
+    recommendations for regulatory, technical, and theoretical frameworks aimed
+    at making AI compatible with existing legal rules, principles, and
+    democratic values. An international roster of authors including professors
+    of specialized areas of law, technologists, and practitioners bring their
+    expertise to the interdisciplinary nature of AI.
+  citation-key: dimatteoCambridgeHandbookArtificial2022
+  DOI: 10.1017/9781009072168
+  editor:
+    - family: DiMatteo
+      given: Larry A.
+    - family: Poncibò
+      given: Cristina
+    - family: Cannarsa
+      given: Michel
+  ISBN: 978-1-00-907216-8
+  issued:
+    - year: 2022
+      month: 8
+      day: 31
+  language: en
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: >-
+    The Cambridge Handbook of Artificial Intelligence: Global Perspectives on
+    Law and Ethics
+  title-short: The Cambridge Handbook of Artificial Intelligence
+  type: book
+
+- id: duffourcProposedEUDirectives2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 29
+  author:
+    - family: Duffourc
+      given: Mindy Nunez
+    - family: Gerke
+      given: Sara
+  citation-key: duffourcProposedEUDirectives2023
+  container-title: npj Digital Medicine
+  container-title-short: npj Digital Medicine
+  DOI: 10.1038/s41746-023-00823-w
+  ISSN: 2398-6352
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 4
+      day: 26
+  page: '77'
+  title: >-
+    The proposed EU Directives for AI liability leave worrying gaps likely to
+    impact medical AI
+  type: article-journal
+  URL: https://doi.org/10.1038/s41746-023-00823-w
+  volume: '6'
+
+- id: europeancommissionProposalDIRECTIVEEUROPEAN
+  accessed:
+    - year: 2023
+      month: 11
+      day: 3
+  author:
+    - literal: European Commission
+  citation-key: europeancommissionProposalDIRECTIVEEUROPEAN
+  container-title: COM (2022) 496 final
+  title: >-
+    Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on
+    adapting non-contractual civil liability rules to artificial intelligence
+    (AI Liability Directive)
+  title-short: AI Liability Directive
+  type: article-journal
+  URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022PC0496
+
+- id: europeancommissionProposalREGULATIONEUROPEAN
+  accessed:
+    - year: 2023
+      month: 12
+      day: 27
+  author:
+    - literal: European Commission
+  citation-key: europeancommissionProposalREGULATIONEUROPEAN
+  container-title: COM/2021/206 final
+  title: >-
+    Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+    LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL
+    INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS
+  title-short: AI Liability Directive
+  type: article-journal
+  URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206
+
+- id: europeanparliamentArtificialIntelligenceAct2023
+  abstract: >-
+    MEPs reached a political deal with the Council on a bill to ensure AI in
+    Europe is safe, respects fundamental rights and democracy, while businesses
+    can thrive and expand.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 13
+  author:
+    - literal: European Parliament
+  citation-key: europeanparliamentArtificialIntelligenceAct2023
+  container-title: European Parliament
+  genre: Press Release
+  issued:
+    - year: 2023
+      month: 9
+      day: 12
+  language: en
+  title: 'Artificial Intelligence Act: deal on comprehensive rules for trustworthy AI'
+  title-short: Artificial Intelligence Act
+  type: webpage
+  URL: >-
+    https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai
+
+- id: europeanunionagencyforfundamentalrights.GettingFutureRight2020
+  accessed:
+    - year: 2023
+      month: 12
+      day: 27
+  author:
+    - literal: European Union Agency for Fundamental Rights.
+  citation-key: europeanunionagencyforfundamentalrights.GettingFutureRight2020
+  DOI: 10.2811/774118
+  event-place: LU
+  issued:
+    - year: 2020
+  language: eng
+  publisher: Publications Office
+  publisher-place: LU
+  source: DOI.org (CSL JSON)
+  title: >-
+    Getting the future right: artificial intelligence and fundamental rights :
+    report.
+  title-short: Getting the future right
+  type: report
+  URL: https://data.europa.eu/doi/10.2811/774118
+
+- id: gorzalaEuropaischesHaftungssystemFur2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 29
+  author:
+    - family: Gorzala
+      given: Jeannette
+  citation-key: gorzalaEuropaischesHaftungssystemFur2023
+  container-title: RdW
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 1
+      day: 19
+  title: Europäisches Haftungssystem für Künstliche Intelligenz-Systeme
+  type: article-journal
+  URL: >-
+    https://360.lexisnexis.at/d/artikel/europaisches_haftungssystem_fur_kunstliche_intelli/z_rdw_2023_1_RdW_2023_01_015_082e63a628
+  volume: '15'
+
+- id: helmingerDatenschutzrechtlicheHerausforderungenBei2022
+  accessed:
+    - year: 2023
+      month: 12
+      day: 30
+  author:
+    - family: Helminger
+      given: Julia
+  citation-key: helmingerDatenschutzrechtlicheHerausforderungenBei2022
+  container-title: ELSA Austria Law Review
+  container-title-short: ealr
+  DOI: 10.33196/ealr202201004601
+  ISSN: 2522-6932, 2522-6940
+  issue: '1'
+  issued:
+    - year: 2022
+  language: de
+  page: '46'
+  source: DOI.org (Crossref)
+  title: >-
+    Datenschutzrechtliche Herausforderungen bei der Verwendung von
+    Trainingsdaten
+  type: article-journal
+  URL: https://biblioscout.net/article/10.33196/ealr202201004601
+  volume: '7'
+
+- id: jagerArtAEUV2019
+  accessed:
+    - year: 2024
+      month: 1
+      day: 3
+  citation-key: jagerArtAEUV2019
+  container-author:
+    - family: Jäger
+      given: ''
+    - family: Stöger
+      given: ''
+    - family: Schima
+      given: ''
+  container-title: EUV/AEUV
+  issued:
+    - year: 2019
+      month: 7
+      day: 1
+  title: Art 7 AEUV
+  type: chapter
+  URL: https://rdb.manz.at/document/1118_9_euv-aeuv_aeuv_art-0007
+
+- id: janssenAIContractPerformance2022
+  author:
+    - family: Janssen
+      given: André
+  citation-key: janssenAIContractPerformance2022
+  container-author:
+    - family: DiMatteo
+      given: Larry A.
+    - family: Poncibò
+      given: Cristina
+    - family: Cannarsa
+      given: Michel
+  container-title: >-
+    The Cambridge Handbook of Artificial Intelligence: Global Perspectives on
+    Law and Ethics
+  DOI: 10.1017/9781009072168
+  ISBN: 978-1-00-907216-8
+  issued:
+    - year: 2022
+      month: 8
+      day: 31
+  language: en
+  page: '59'
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: AI and Contract Performance
+  type: chapter
+
+- id: kesaArtificialIntelligenceGDPR2020
+  accessed:
+    - year: 2023
+      month: 12
+      day: 30
+  author:
+    - family: Kesa
+      given: Aleksandr
+    - family: Kerikmäe
+      given: Tanel
+  citation-key: kesaArtificialIntelligenceGDPR2020
+  container-title: TalTech Journal of European Studies
+  DOI: 10.1515/bjes-2020-0022
+  ISSN: 2674-4619
+  issue: '3'
+  issued:
+    - year: 2020
+      month: 12
+      day: 1
+  language: en
+  page: 68-90
+  source: DOI.org (Crossref)
+  title: 'Artificial Intelligence and the GDPR: Inevitable Nemeses?'
+  title-short: Artificial Intelligence and the GDPR
+  type: article-journal
+  URL: https://www.sciendo.com/article/10.1515/bjes-2020-0022
+  volume: '10'
+
+- id: madiegaArtificialIntelligenceLiability2023
+  accessed:
+    - year: 2023
+      month: 11
+      day: 3
+  author:
+    - family: Madiega
+      given: Tambiama
+    - literal: European Parliamentary Research Service
+  citation-key: madiegaArtificialIntelligenceLiability2023
+  container-title: EU Legislation in Progress
+  issued:
+    - year: 2023
+      month: 2
+  language: en
+  source: Zotero
+  title: Artificial intelligence liability directive
+  type: article-journal
+  URL: >-
+    https://www.europarl.europa.eu/RegData/etudes/BRIE/2023/739342/EPRS_BRI(2023)739342_EN.pdf
+
+- id: martineauWhatGenerativeAI2021
+  accessed:
+    - year: 2023
+      month: 12
+      day: 28
+  author:
+    - family: Martineau
+      given: Kim
+  citation-key: martineauWhatGenerativeAI2021
+  container-title: IBM Research Blog
+  issued:
+    - year: 2021
+      month: 2
+      day: 9
+  title: What is generative AI?
+  type: webpage
+  URL: https://research.ibm.com/blog/what-is-generative-AI
+
+- id: maslejAIIndex20232023
+  accessed:
+    - year: 2023
+      month: 10
+      day: 29
+  author:
+    - family: Maslej
+      given: Nestor
+    - family: Fattorini
+      given: Loredana
+    - family: Brynjolfsson
+      given: Erik
+    - family: Etchemendy
+      given: John
+    - family: Ligett
+      given: Katrina
+    - family: Lyons
+      given: Terah
+    - family: Manyika
+      given: James
+    - family: Ngo
+      given: Helen
+    - family: Niebles
+      given: Juan Carlos
+    - family: Parli
+      given: Vanessa
+    - family: Shoham
+      given: Yoav
+    - family: Wald
+      given: Russell
+    - family: Clark
+      given: Jack
+    - family: Perrault
+      given: Raymond
+  citation-key: maslejAIIndex20232023
+  event-place: Stanford, CA
+  issued:
+    - year: 2023
+      month: 4
+  publisher: >-
+    AI Index Steering Committee, Institute for Human-Centered AI, Stanford
+    University
+  publisher-place: Stanford, CA
+  title: The AI Index 2023 Annual Report
+  type: report
+  URL: https://aiindex.stanford.edu/report/
+
+- id: metzMistralFrenchStartUp2023
+  abstract: >-
+    The company has publicly released its latest technology so people can build
+    their own chatbots. Rivals like OpenAI and Google argue that approach can be
+    dangerous.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 27
+  author:
+    - family: Metz
+      given: Cade
+  citation-key: metzMistralFrenchStartUp2023
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2023
+      month: 12
+      day: 10
+  language: en-US
+  section: Technology
+  source: NYTimes.com
+  title: Mistral, French A.I. Start-Up, Is Valued at $2 Billion in Funding Round
+  type: article-newspaper
+  URL: https://www.nytimes.com/2023/12/10/technology/mistral-ai-funding.html
+
+- id: moreiraAIActMeets2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 30
+  author:
+    - family: Moreira
+      given: Nídia Andrade
+    - family: Freitas
+      given: Pedro Miguel
+    - family: Novais
+      given: Paulo
+  citation-key: moreiraAIActMeets2023
+  container-author:
+    - family: Moniz
+      given: Nuno
+    - family: Vale
+      given: Zita
+    - family: Cascalho
+      given: José
+    - family: Silva
+      given: Catarina
+    - family: Sebastião
+      given: Raquel
+  container-title: Progress in Artificial Intelligence
+  DOI: 10.1007/978-3-031-49011-8_13
+  event-place: Cham
+  ISBN: 978-3-031-49010-1 978-3-031-49011-8
+  issued:
+    - year: 2023
+  language: en
+  page: 157-168
+  publisher: Springer
+  publisher-place: Cham
+  source: DOI.org (Crossref)
+  title: 'The AI Act Meets General Purpose AI: The Good, The Bad and The Uncertain'
+  title-short: The AI Act Meets General Purpose AI
+  type: chapter
+  URL: https://link.springer.com/10.1007/978-3-031-49011-8_13
+
+- id: mouravicenteLegalChallengesFourth2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 29
+  citation-key: mouravicenteLegalChallengesFourth2023
+  collection-title: Law, Governance and Technology Series
+  DOI: 10.1007/978-3-031-40516-7
+  editor:
+    - family: Moura Vicente
+      given: Dário
+    - family: De Vasconcelos Casimiro
+      given: Sofia
+    - family: Chen
+      given: Chen
+  event-place: Cham
+  ISBN: 978-3-031-40515-0 978-3-031-40516-7
+  issued:
+    - year: 2023
+  language: en
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  source: DOI.org (Crossref)
+  title: >-
+    The Legal Challenges of the Fourth Industrial Revolution: The European
+    Union's Digital Strategy
+  title-short: The Legal Challenges of the Fourth Industrial Revolution
+  type: book
+  URL: https://doi.org/10.1007/978-3-031-40516-7
+  volume: '57'
+
+- id: nikolinakosEUPolicyLegal2023
+  accessed:
+    - year: 2023
+      month: 10
+      day: 29
+  author:
+    - family: Nikolinakos
+      given: Nikos Th.
+  citation-key: nikolinakosEUPolicyLegal2023
+  DOI: 10.1007/978-3-031-27953-9
+  ISBN: 978-3-031-27952-2 978-3-031-27953-9
+  issued:
+    - year: 2023
+  language: en
+  publisher: Springer
+  source: DOI.org (Crossref)
+  title: >-
+    EU Policy and Legal Framework for Artificial Intelligence, Robotics and
+    Related Technologies - The AI Act
+  type: book
+  URL: https://doi.org/10.1007/978-3-031-27953-9
+
+- id: oliveiraArtificialIntelligenceHistorical2023
+  author:
+    - family: Oliveira
+      given: Arlindo L
+    - family: Figueiredo
+      given: Mário A. T.
+  citation-key: oliveiraArtificialIntelligenceHistorical2023
+  container-author:
+    - family: Sousa Antunes
+      given: Henrique
+    - family: Freitas
+      given: Pedro Miguel
+    - family: Oliveira
+      given: Arlindo L
+    - family: Martins Pereira
+      given: Clara
+    - family: Sequeira
+      given: Elsa Vaz
+      non-dropping-particle: de
+    - family: Barreto Xavier
+      given: Luís
+  container-title: Multidisciplinary Perspectives on Artificial Intelligence and the Law
+  DOI: https://doi.org/10.1007/978-3-031-41264-6
+  issued:
+    - year: 2023
+      month: 12
+      day: 27
+  language: en
+  page: '3'
+  publisher: Springer
+  source: Zotero
+  title: 'Artiﬁcial Intelligence: Historical Context and State of the Art'
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-031-41264-6
+
+- id: palmiottoRegulatingGenerativeArtificial2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 29
+  author:
+    - family: Palmiotto
+      given: Francesca
+    - family: Duarte
+      given: Francisco De Abreu
+  citation-key: palmiottoRegulatingGenerativeArtificial2023
+  issued:
+    - year: 2023
+      month: 10
+      day: 11
+  language: en-US
+  title: Regulating Generative Artificial Intelligence
+  type: webpage
+  URL: https://digi-con.org/symposium-on-generative-ai/
+
+- id: riesenhuberEuropaischeMethodenlehre2021
+  accessed:
+    - year: 2024
+      month: 1
+      day: 1
+  citation-key: riesenhuberEuropaischeMethodenlehre2021
+  DOI: 10.1515/9783110614305
+  editor:
+    - family: Riesenhuber
+      given: Karl
+  ISBN: 978-3-11-061430-5
+  issued:
+    - year: 2021
+      month: 5
+      day: 25
+  publisher: De Gruyter
+  source: DOI.org (Crossref)
+  title: Europäische Methodenlehre
+  type: book
+  URL: https://www.degruyter.com/document/doi/10.1515/9783110614305/html
+
+- id: schmittKITrainingUndFreie2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 29
+  author:
+    - family: Schmitt
+      given: Thomas Rainer
+  citation-key: schmittKITrainingUndFreie2023
+  container-title: jusIT
+  issued:
+    - year: 2023
+      month: 12
+      day: 19
+  page: '102'
+  title: >-
+    KI-Training und die freie Werknutzung für Text- und Data-Mining zum eigenen
+    Gebrauch | Lexis 360
+  type: article-journal
+  URL: >-
+    https://360.lexisnexis.at/d/artikel/ki_training_und_die_freie_werknutzung_fur_text_und/z_jusit_2023_6_jusIT_2023_06_102_835011b97f?searchid=20231229130655996&page=1&index=6&origin=rl&rlclick=title&originview=STM
+  volume: '6'
+
+- id: senftlebenTrademarkLawAIdriven2022
+  author:
+    - family: Senftleben
+      given: Martin
+  call-number: K1401 .R43 2022
+  citation-key: senftlebenTrademarkLawAIdriven2022
+  collection-title: Research handbooks in intellectual property
+  container-author:
+    - family: Abbott
+      given: Ryan
+  container-title: Research handbook on intellectual property and artificial intelligence
+  DOI: https://doi.org/10.4337/9781800881907
+  event-place: Cheltenham, UK ; Northampton, MA, USA
+  ISBN: 978-1-80088-189-1
+  issued:
+    - year: 2022
+  note: 'OCLC: on1321073792'
+  page: '309'
+  publisher: Edward Elgar Publishing
+  publisher-place: Cheltenham, UK ; Northampton, MA, USA
+  source: Library of Congress ISBN
+  title: >-
+    Trademark law, AI-driven behavioral advertising, and the Digital Services
+    Act: toward source and parameter transparency for consumers, brand owners,
+    and competitors
+  type: chapter
+
+- id: sousaantunesMultidisciplinaryPerspectivesArtificial2023
+  author:
+    - family: Sousa Antunes
+      given: Henrique
+    - family: Freitas
+      given: Pedro Miguel
+    - family: Oliveira
+      given: Arlindo L
+    - family: Martins Pereira
+      given: Clara
+    - family: Sequeira
+      given: Elsa Vaz
+      non-dropping-particle: de
+    - family: Barreto Xavier
+      given: Luís
+  citation-key: sousaantunesMultidisciplinaryPerspectivesArtificial2023
+  DOI: https://doi.org/10.1007/978-3-031-41264-6
+  issued:
+    - year: 2023
+      month: 12
+      day: 27
+  language: en
+  publisher: Springer
+  source: Zotero
+  title: Multidisciplinary Perspectives on Artificial Intelligence and the Law
+  type: book
+  URL: https://doi.org/10.1007/978-3-031-41264-6
+
+- id: steindlKIVerordnungRevisited2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 30
+  author:
+    - family: Steindl
+      given: Elisabeth
+    - family: Küchli
+      given: Harald
+    - family: Thurin
+      given: Oliver
+  citation-key: steindlKIVerordnungRevisited2023
+  container-title: RdW
+  issued:
+    - year: 2023
+  page: '181'
+  title: KI-Verordnung revisited
+  type: article-journal
+  URL: >-
+    https://360.lexisnexis.at/d/artikel/ki_verordnung_revisited/z_rdw_2023_4_RdW_2023_04_181_ade5263a79
+  volume: '4'
+
+- id: ufertAIRegulationLens2020
+  accessed:
+    - year: 2023
+      month: 12
+      day: 30
+  author:
+    - family: Ufert
+      given: Fabienne
+  citation-key: ufertAIRegulationLens2020
+  container-title: European Papers - A Journal on Law and Integration
+  contributor:
+    - literal: Research Centre For European Law, Unitelma Sapienza-University Of Rome
+  DOI: 10.15166/2499-8249/394
+  ISSN: 2499-8249
+  issued:
+    - year: 2020
+      month: 9
+      day: 20
+  language: en
+  license: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
+  medium: text/html,PDF
+  page: 1087-1097
+  publisher: European Papers (www.europeanpapers.eu)
+  source: DOI.org (Datacite)
+  title: >-
+    AI Regulation Through the Lens of Fundamental Rights: How Well Does the GDPR
+    Address the Challenges Posed by AI?
+  title-short: AI Regulation Through the Lens of Fundamental Rights
+  type: article-journal
+  URL: >-
+    https://www.europeanpapers.eu/en/europeanforum/ai-regulation-through-the-lens-of-fundamental-rights
+  volume: '5'
+
+- id: woodArtificialIntelligenceUpdated2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 29
+  author:
+    - family: Wood
+      given: Tom
+    - family: Wihl
+      given: Louis
+  citation-key: woodArtificialIntelligenceUpdated2023
+  container-title: 'Deloitte: Audit & Assurance'
+  issued:
+    - year: 2023
+      month: 4
+      day: 5
+  language: en-UK
+  title: 'Artificial Intelligence: updated EU liability legislation'
+  title-short: Artificial Intelligence
+  type: post-weblog
+  URL: >-
+    https://www2.deloitte.com/uk/en/blog/auditandassurance/2023/ai-updated-eu-liability-legislation.html
+
+- id: zennerDatasetEULegislation2023
+  accessed:
+    - year: 2023
+      month: 12
+      day: 27
+  author:
+    - family: Zenner
+      given: Kai
+    - family: Marcus
+      given: J. Scott
+    - family: Sekut
+      given: Kamil
+  citation-key: zennerDatasetEULegislation2023
+  container-title: Bruegel | The Brussels-based economic think tank
+  issued:
+    - year: 2023
+      month: 11
+      day: 16
+  language: en
+  title: A dataset on EU legislation for the digital world
+  type: webpage
+  URL: https://www.bruegel.org/dataset/dataset-eu-legislation-digital-world
+...
